@@ -45,6 +45,6 @@ L'auteur décline toute responsabilité en cas de mauvaise utilisation.
 
 - Développé par : **vraibledard**
 - Github : github.com/vraibledard
-- Discord : 
+- Discord : https://discord.gg/b2rNCEFaMr
 - Licence : Licence [MIT](LICENSE.txt)
 - Version : V1.0
